@@ -25,8 +25,8 @@
 - npm install react-bootstrap bootstrap
 - ex) 사용예제
 - import 'bootstrap/dist/css/bootstrap.min.css';
-- import Button from 'react-bootstrap/Button'; // 꼭 import를 해와야한다
-- <Button as="input" type="button" value="Input" />
+- import Button from 'react-bootstrap/Button'; // 꼭 import를 해야한다
+<Button as="input" type="button" value="Input" />
 
 -- 참고사이트 :  https://react-bootstrap.github.io/getting-started/introduction/
 
